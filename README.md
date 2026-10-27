@@ -13,5 +13,5 @@ Open the branch you want to learn:
 
 - `main` — Hello, Bishwas!
 - `props` — pass a name into a greeting with `name="Bishwas"`
-- `state` — update a simple counter
+- `state` — change the greeting with `useState`
 - `event-handling` — show a message when a button is clicked
