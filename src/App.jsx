@@ -1,5 +1,9 @@
+function Greeting(props) {
+  return <h1>Hello, {props.name}!</h1>;
+}
+
 function App() {
-  return <h1>Hello, Bishwas!</h1>;
+  return <Greeting name="Bishwas" />;
 }
 
 export default App;
