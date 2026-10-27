@@ -11,6 +11,7 @@ function App() {
     <div>
       <Greeting name={name} />
       <button onClick={() => setName("Kalvium")}>Say hello to Kalvium</button>
+      <button onClick={() => alert("Hello, Bishwas!")}>Click me</button>
     </div>
   );
 }
